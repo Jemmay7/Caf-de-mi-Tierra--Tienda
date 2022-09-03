@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23fae7a5-21bc-4553-98c0-c7e412c674f9" name="Changes" comment="" />
+    <list default="true" id="23fae7a5-21bc-4553-98c0-c7e412c674f9" name="Changes" comment="nuevo repositorio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +33,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662234606136</updated>
     </task>
+    <task id="LOCAL-00001" summary="nuevo repositorio">
+      <created>1662235246217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662235246217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -40,10 +48,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nuevo repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuevo repositorio" />
   </component>
 </project>
